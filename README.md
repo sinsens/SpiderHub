@@ -5,4 +5,4 @@
 
 **C.漫画相关**
 
-1. [漫画下载爬虫](SpiderHub/tree/master/comic_downloader) (requests+pyquery+faker)
+1. [漫画下载爬虫](comic_downloader/) (requests+pyquery+faker)
