@@ -2,4 +2,4 @@
 
 **S.社交媒体相关**
 
-1. [微博热搜爬虫](spiders/weibo.py)
+1. [微博热搜爬虫](HotSpider/spiders/weibo.py)
