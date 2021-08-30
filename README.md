@@ -6,3 +6,8 @@
 **C.漫画相关**
 
 1. [漫画下载爬虫](comic_downloader/) (requests+pyquery+faker)
+
+
+**S.社交媒体相关**
+
+1. [微博热搜爬虫](HotSpider/src/HotSpider/spiders/weibo.py) (scrapy+pyquery)
